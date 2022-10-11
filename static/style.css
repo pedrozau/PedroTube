@@ -1,0 +1,53 @@
+#form {
+  
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+
+#form input[type='text'] {
+  
+    display:block;
+    width: 450px;
+    border: none;
+    border: 1px solid rgba(141, 126, 126, 0.8);
+    border-radius: 4px;
+    margin: auto;
+    margin-bottom: 15px;
+    padding:10px;
+
+}
+
+#form input[type='submit'] {
+     
+    display: block;
+    width: 300px;
+    background: rgb(52, 158, 84);
+    border: none;
+    margin: auto;
+    padding:10px;
+    
+
+}
+
+header h1 {
+ 
+    display:flex;
+    align-items:center;
+    justify-content: center;
+
+    margin:20px;
+    color:rgb(194, 77, 77);
+    font-size:40pt;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+
+}
+
+body {
+ 
+    background: rgb(126, 125, 125);
+
+}
